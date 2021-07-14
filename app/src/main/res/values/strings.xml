@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">蓝牙测试dome</string>
+    <string name="is_support_bule_tooth">是否支持蓝牙</string>
+    <string name="is_bule_tooth_enabl">蓝牙是否可用</string>
+    <string name="turn_on_blue_tooth">打开蓝牙</string>
+    <string name="turn_off_blue_tooth">关闭蓝牙</string>
+</resources>
